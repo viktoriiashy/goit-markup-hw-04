@@ -172,7 +172,7 @@ img {
     url(../images/hero.jpg);
   background-repeat: no-repeat;
   background-position: center;
-  width: 1600px;
+  max-width: 1600px;
 }
 
 .hero-title {
@@ -352,7 +352,6 @@ img {
   height: 44px;
   background-color: #ffffff;
   border-radius: 50%;
-  display: block;
   display: flex;
   align-items: center;
   justify-content: center;
